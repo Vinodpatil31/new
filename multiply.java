@@ -7,6 +7,7 @@ public class multiply{
 
         int c = a * b;
         int d;
+        int e;
 
         System.out.println("The product is ="+c); 
     }
