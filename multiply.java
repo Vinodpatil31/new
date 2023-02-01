@@ -6,6 +6,7 @@ public class multiply{
         int b = 6;
 
         int c = a * b;
+        int d;
 
         System.out.println("The product is ="+c); 
     }
